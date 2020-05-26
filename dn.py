@@ -7,3 +7,5 @@ def getPdfs(dirName):
 dirName = '.'
 pdfs = getPdfs(dirName)
 print(pdfs)
+
+>>>['1900070.pdf', '211559-050.pdf']
